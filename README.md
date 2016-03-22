@@ -24,3 +24,8 @@ Genetic maps
     - **rate** : recombination rate in cM/Mb
     - **cM** : cumulative map position in centiMorgans
 
+Genotype data
+------------
+
++ Genotype data, including pedigree information for 237 dogs is included in PLINK format within **dog_genotype_data.tar.gz**
+
