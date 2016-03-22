@@ -13,7 +13,7 @@ Crossover calls
     - **pos.lower** : lower bound of crossover in canFam3.1 coordinates
     - **pos** : upper bound of crossover in canFam3.1 coordinates
     - **pRecomb** : probability of recombination, given by duoHMM
-    - **mID** : unique "meiosis ID" for each transmission in the format of "m<parentID>-<childID>"
+    - **mID** : unique "meiosis ID" for each transmission in the format of "m\<parentID\>-\<childID\>"
 
 Genetic maps
 ------------
