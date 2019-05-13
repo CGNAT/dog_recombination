@@ -1,5 +1,11 @@
-Recombination in dogs
+A Pedigree-Based Map of Recombination in the Domestic Dog Genome
 =====================
+
+This repository contains supporting data for:
+* Campbell, CL, Bhérer, C, Morrow, BE, Boyko, AR, & Auton, A.
+  A Pedigree-Based Map of Recombination in the Domestic Dog Genome.
+  G3: GENES, GENOMES, GENETICS; November 1, 2016; vol. 6 no. 11 3517-3524;
+  [doi:10.1534/g3.116.034678](https://doi.org/10.1534/g3.116.034678)
 
 Crossover calls
 ---------------
